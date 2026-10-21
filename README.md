@@ -8,6 +8,8 @@ size/quantity selection, cart, coupon system, checkout (COD + Stripe test mode),
 reviews & ratings, wishlist, admin dashboard with sales analytics, and an AI Barista chat
 assistant powered by Claude.
 
+🌐 **Live Demo:** (http://brewhousecoffee.duckdns.org:8080)
+
 ---
 ## 👥 Project Team
 
