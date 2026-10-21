@@ -103,7 +103,6 @@ npm run dev
 
 ### `backend/.env`
 | Variable | Description |
-|---|---|
 | `PORT` | Backend port (default `5000`) |
 | `MONGO_URI` | MongoDB connection string |
 | `JWT_SECRET` | Long random string used to sign JWTs |
